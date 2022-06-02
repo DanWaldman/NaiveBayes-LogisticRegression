@@ -6,7 +6,8 @@ Welcome to My Logistic Regression notebook!
 
 You can download the file and see the notebook in your own jupyter notebooks
 
-To look at right now - just use this link: http://nbviewer.org/github/DanWaldman/LinearRegression/blob/main/LinearRegressionNotebook.ipynb
+To look at right now - just use this link: 
+http://nbviewer.org/github/DanWaldman/NaiveBayes-LogisticRegression/blob/main/LogisticRegressionNaiveBayesNotebook.ipynb
 
 # Context
 This Notebook explains deeply how Linear classifiers are performed, and it compares Logistic Regression to Naive Bayes.
